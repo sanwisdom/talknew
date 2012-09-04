@@ -1,0 +1,419 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Add local avatar v7.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-24 01:24+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Peter <peter@sterling-adventures.co.uk>\n"
+"Language-Team:  <onix@onix.name>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Language: uk_UA\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: avatars.php:183
+msgid "Visit"
+msgstr "访问"
+
+#: avatars.php:204 avatars.php:279 avatars.php:341
+msgid "Avatar"
+msgstr "虚拟人像"
+
+#: avatars.php:204
+msgid "removed"
+msgstr "已移除"
+
+#: avatars.php:204
+msgid "updated"
+msgstr "已更新"
+
+#: avatars.php:228
+msgid "Options saved"
+msgstr "选项已保存"
+
+#: avatars.php:247
+msgid "Avatar Settings"
+msgstr "头像设置"
+
+#: avatars.php:249
+msgid "Please visit the author's site,"
+msgstr "请访问作者的网址"
+
+#: avatars.php:249
+msgid "and say \"Hi\""
+msgstr "说“嗨”"
+
+#: avatars.php:250
+msgid "Control the behaviour of the avatar plug-in."
+msgstr "控制头像插件的行为"
+
+#: avatars.php:252
+msgid "User Avatars"
+msgstr "用户头像"
+
+#: avatars.php:279
+msgid "Username"
+msgstr "用户名"
+
+#: avatars.php:279
+msgid "Name (Nickname)"
+msgstr "名字（昵称）"
+
+#: avatars.php:279 avatars.php:341
+msgid "e-Mail"
+msgstr "电子邮件"
+
+#: avatars.php:279 avatars.php:292
+msgid "Local"
+msgstr "本地"
+
+#: avatars.php:279
+msgid "Type"
+msgstr "类型"
+
+#: avatars.php:279
+msgid "Action"
+msgstr "动作"
+
+#: avatars.php:292
+msgid "Global"
+msgstr "全局"
+
+#: avatars.php:293
+msgid "Update"
+msgstr "更新"
+
+#: avatars.php:308
+msgid "Not showing avatars for commenters."
+msgstr "不为评论者显示头像"
+
+#: avatars.php:308 avatars.php:309
+msgid "Click here"
+msgstr "点击"
+
+#: avatars.php:308
+msgid "to show commenter avatars."
+msgstr "评论者显示头像"
+
+#: avatars.php:309
+msgid "Showing avatars for commenters."
+msgstr "为评论者显示头像"
+
+#: avatars.php:309
+msgid "to hide commenter avatars."
+msgstr "隐藏评论者头像"
+
+#: avatars.php:329
+msgid "Commenter Avatars"
+msgstr "评论者头像"
+
+#: avatars.php:341
+msgid "Name"
+msgstr "名字"
+
+#: avatars.php:368
+msgid "Avatar Options"
+msgstr "头像选项"
+
+#: avatars.php:372
+msgid "Show avatars:"
+msgstr "显示头像:"
+
+#: avatars.php:372 avatars.php:376
+msgid "Repeated from <i>Settings  &raquo;  Discussion</i>"
+msgstr "重复 <i>设置  &raquo;  讨论</i>"
+
+#: avatars.php:376
+msgid "Avatar rating:"
+msgstr "头像评级"
+
+#: avatars.php:384
+msgid "Suitable for all audiences"
+msgstr "适用于所有观众"
+
+#: avatars.php:385
+msgid "Possibly offensive, usually for audiences 13 and above"
+msgstr "仅为大于13岁的观众"
+
+#: avatars.php:386
+msgid "Intended for adult audiences above 17"
+msgstr "仅为大于17岁的成人观众"
+
+#: avatars.php:387
+msgid "Even more mature than above"
+msgstr "比上述更成熟"
+
+#: avatars.php:391
+msgid "Size:"
+msgstr "大小："
+
+#: avatars.php:402
+msgid "Gravatar default:"
+msgstr "Gravatar 缺省项："
+
+#: avatars.php:402
+msgid "Enhanced repeat from <i>Settings &raquo; Discussion</i>"
+msgstr "加强重复 <i>设置 &raquo; 评论</i>"
+
+#: avatars.php:406
+msgid "none"
+msgstr "无"
+
+#: avatars.php:407
+msgid "Mystery Man"
+msgstr "神秘人物"
+
+#: avatars.php:408
+msgid "Blank"
+msgstr "空白"
+
+#: avatars.php:409
+msgid "Logo"
+msgstr "Logo"
+
+#: avatars.php:415
+msgid "Give users without Global or Local avatars a unique avatar."
+msgstr "使用户全局或本地头像唯一"
+
+#: avatars.php:419
+msgid "Default image:"
+msgstr "缺省图片："
+
+#: avatars.php:424
+msgid ""
+"The default avatar (a working URI) for users without Global or Local "
+"avatars.  Used for trackbacks."
+msgstr "用户全局或本地缺省头像（有效的URI地址）。用于回溯。"
+
+#: avatars.php:428
+msgid "Use Snapshots:"
+msgstr "使用快照："
+
+#: avatars.php:430
+msgid "If you have enabled"
+msgstr "如果您启用"
+
+#: avatars.php:430
+msgid "clearing this will disable them for avatar links."
+msgstr "清楚这个会禁用头像链接"
+
+#: avatars.php:433
+msgid "Avatars in posts:"
+msgstr "文章中的头像："
+
+#: avatars.php:435
+msgid "Replaces"
+msgstr "替换"
+
+#: avatars.php:435
+msgid "with an avatar for that email address in post content."
+msgstr "为文章内容中email地址加头像"
+
+#: avatars.php:438
+msgid "User uploads:"
+msgstr "用户上传："
+
+#: avatars.php:443
+msgid "If allowed, use this directory for user avatar uploads, e.g."
+msgstr "如果允许，用本路径为用户上传头像，例如"
+
+#: avatars.php:443
+msgid "Must have write access and is relative to your web root, i.e. "
+msgstr "必须拥有对于root的写权限，例如"
+
+#: avatars.php:447
+msgid "Resize uploads:"
+msgstr "上传改变大小："
+
+#: avatars.php:449
+msgid "Non-square uploads will be cropped."
+msgstr "非正方形上传会被截图"
+
+#: avatars.php:452
+msgid "Resize uploads size:"
+msgstr "改变上传大小："
+
+#: avatars.php:466
+msgid "Enable user profile widget:"
+msgstr "激活用户简介插件"
+
+#: avatars.php:468
+msgid ""
+"Enable the user profile widget; configure the widget at <i>Appearance "
+"&raquo; Widgets</i>."
+msgstr "激活用户简介插件；在 <i>外观 &raquo; 插件</i>中，配置插件。"
+
+#: avatars.php:470
+msgid ""
+"Get the user profile widget at the <a href=\"http://www.sterling-adventures."
+"co.uk/blog/2008/03/01/avatars-plugin/\">Avatars Home Page</a>, and enable "
+"avatar upload from your blog sidebar."
+msgstr ""
+"获取用户简介插件 <a href=\"http://www.sterling-adventures.co.uk/"
+"blog/2008/03/01/avatars-plugin/\">Avatar主页</a>，然后在博客边栏激活头像上传"
+"功能。"
+
+#: avatars.php:474
+msgid "Nickname:"
+msgstr "昵称："
+
+#: avatars.php:479
+msgid "User's nickname used for avatar titles (tooltip)."
+msgstr "用户的昵称用于头像的tooltip。"
+
+#: avatars.php:483
+msgid "Credit:"
+msgstr "信用："
+
+#: avatars.php:485
+msgid "Includes an invisible credit to"
+msgstr "包含隐藏的信用"
+
+#: avatars.php:488
+msgid "Update Avatar Options"
+msgstr "更新头像选项"
+
+#: avatars.php:491
+msgid "Avatars Usage"
+msgstr "头像使用方法"
+
+#: avatars.php:492
+msgid "Put this code in your template files where you want avatars to appear:"
+msgstr "将此代码放于希望显示头像的模版文件中："
+
+#: avatars.php:494
+msgid "The function takes the following parameters:"
+msgstr "功能接受一下参数"
+
+#: avatars.php:496
+msgid ""
+"Identifier; required, a blog user ID, an e-mail address, or a comment object "
+"from a WordPress comment loop (for comments)."
+msgstr "ID；必填，博客的用户ID，email地址，或WordPress评论"
+
+#: avatars.php:497
+msgid "Size (pixels); optional, defaulted to value set above."
+msgstr "大小 （像素）；可选，默认为以上设置缺省值。"
+
+#: avatars.php:498
+msgid ""
+"Default image if no Global (public) or Local (private) avatar found; "
+"optional, defaulted to value set above."
+msgstr "默认图像如果找到全局（公开）或本地（私有）头像；可选，默认为以上设置"
+
+#: avatars.php:500
+msgid "Apply format to the avatars with something like the following in your"
+msgstr "应用格式于头像，象以下在你"
+
+#: avatars.php:500
+msgid "theme file:"
+msgstr "主题文件："
+
+#: avatars.php:501
+msgid "For comment avatars,"
+msgstr "用于评论头像，"
+
+#: avatars.php:502
+msgid "For avatars in post content,"
+msgstr "为在发布内容中的头像，"
+
+#: avatars.php:504
+msgid "Examples for your theme's template files:"
+msgstr "您主题模版文件的例子："
+
+#: avatars.php:506
+msgid "In"
+msgstr "在"
+
+#: avatars.php:506
+msgid "declare"
+msgstr "申明"
+
+#: avatars.php:506
+msgid "if not already declared and then use"
+msgstr "如果没有什么，则使用"
+
+#: avatars.php:506
+msgid "to show the post author's avatar."
+msgstr "显示发表作者的头像。"
+
+#: avatars.php:507
+msgid "Inside the comment loop of"
+msgstr "在评论中"
+
+#: avatars.php:507
+msgid "use"
+msgstr "用"
+
+#: avatars.php:507
+msgid "to show the comment author's avatar."
+msgstr "显示评论作者的头像"
+
+#: avatars.php:523
+msgid "Avatars"
+msgstr "头像"
+
+#: avatars.php:562
+msgid "Avatar Upload"
+msgstr "头像上传"
+
+#: avatars.php:574
+msgid "Upload error:"
+msgstr "上传错误："
+
+#: avatars.php:580
+msgid "Current Avatar"
+msgstr "当前头像"
+
+#: avatars.php:602
+msgid "Global avatar, override with a local avatar..."
+msgstr "全局头像，被本地头像覆盖……"
+
+#: avatars.php:609
+msgid "Hints: Square images make better avatars."
+msgstr "提示：正方形图像更好显示。"
+
+#: avatars.php:611
+msgid "Small image files are best for avatars, e.g. approx. 10K or smaller."
+msgstr "请使用小图像，10K或更小"
+
+#: avatars.php:617
+msgid "Local avatar, delete to revert to global avatar."
+msgstr "本地头像，删除后应用全局头像。"
+
+#: avatars.php:620
+msgid "delete local avatar."
+msgstr "删除本地头像。"
+
+#: avatars.php:624
+msgid "Current avatar, contact blog administrator to change."
+msgstr "当前头像，联系博客管理员更改。"
+
+#: avatars.php:625
+msgid ""
+"Avatar uploads not allowed (Administrator may set on <i>Users &raquo; "
+"Avatars</i> page)."
+msgstr "禁止上传头像 (管理员可以在 <i>用户 &raquo; 头像</i> 页面设置)."
+
+#: avatars.php:677
+msgid "Upload directory doesn't exist."
+msgstr "上传路径不存在。"
+
+#: avatars.php:693
+msgid "Too many tries to find non-existent file."
+msgstr "文件不存在，尝试过多。"
+
+#: avatars.php:698
+msgid "File upload failed."
+msgstr "文件上传失败"
+
+#: avatars.php:709
+msgid "Unable to resize image."
+msgstr "不能更改图片大小"
+
+#: avatars.php:713
+msgid "Wrong type."
+msgstr "类型错误。"
