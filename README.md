@@ -1,0 +1,4 @@
+talknew
+=======
+
+talknew's blog
